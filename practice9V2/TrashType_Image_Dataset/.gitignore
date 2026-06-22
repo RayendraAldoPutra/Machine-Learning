@@ -1,0 +1,3 @@
+TrashType_Image_Dataset/
+*.keras
+git rm -r --cached .
