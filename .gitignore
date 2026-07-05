@@ -1,0 +1,5 @@
+# Ignore dataset in practice 10
+practice 10/TrashType_Image_Dataset/
+
+# Ignore Python scripts in practice 10
+practice 10/*.py
